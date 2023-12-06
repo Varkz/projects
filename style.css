@@ -1,0 +1,29 @@
+* {
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('/Task_1/Assets/pattern.jpeg');
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.first {
+    background-color: mediumspringgreen;
+}
+.second {
+    background-color: lightcoral;
+}
+.third {
+    background-color: skyblue;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
